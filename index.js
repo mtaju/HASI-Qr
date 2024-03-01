@@ -1,6 +1,6 @@
 //_____qr code session__
-//___c DiegosonTech__
-//c HASI-MD Chat Bot___
+//___c GMAXTech__
+//c LAZACK-MD Chat Bot___
 
 const express = require("express");
 const app = express();
@@ -23,14 +23,14 @@ if (fs.existsSync('./auth_info_baileys')) {
 
 function genMESSAGE(user) {
   return `┌───⭓『
-❒ *HASI-MD*
+❒ *LAZACK-MD*
 ❒ _NOW DEPLOY IT_
 └────────────⭓
 ┌───⭓
 ❒  • Chat with owner •
-❒ *GitHub:* __https://github.com/chhaseeb47_
-❒ *Author:* _wa.me/923462054847_
-❒ *YT:* _https://youtube.com/@mhmodsofc_
+❒ *whatapp:* __https://chat.whatsapp.com/KYmevXcP6Ki89fpqbQHoEf_
+❒ *Author:* _https://wa.me/message/S4444FEFY35KH1_
+❒ *channel:* _link soon _
 └────────────⭓
 `;
 }
